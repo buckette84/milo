@@ -1,1 +1,4 @@
 Milo is a tall bay horse. Male. 9 years old.
+He is male
+He is 9 years old.
+I bet he is beautiful.
